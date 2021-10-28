@@ -1,10 +1,14 @@
 # Hello, welcome to my profile
 
-- 👋 Hi, I’m @Lucas-Mororo
-- 👀 I am always interested in learning more and more.
-- 🌱 I'm currently learning web programming - front end 
-- 💞️ I'm looking to collaborate on a little bit of everything, always looking to help and learn
+<img src="https://wachesehacademy.com/wp-content/uploads/2021/03/R42f39352ae6b3b29fa01a5a3d9f0ef72.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
+<p align="left"> 
+ - 👋 Hi, I’m @Lucas-Mororo
+ - 👀 I am always interested in learning more and more.
+ - 🌱 I'm currently learning web programming - front end 
+ - 💞️ I'm looking to collaborate on a little bit of everything, always looking to help and learn
+</p>
+ 
 <br>
 
 #### Talk to me:
