@@ -1,6 +1,6 @@
-# Hello, welcome to my profile
-
 <img src="https://wachesehacademy.com/wp-content/uploads/2021/03/R42f39352ae6b3b29fa01a5a3d9f0ef72.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+
+# Hello, welcome to my profile
 
 <p align="left"> 
  <p>- 👋 Hi, I’m @Lucas Martins Mororo <p/>
