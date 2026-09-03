@@ -1,214 +1,92 @@
 <div align="center">
 
-# 👋 Hello, I'm Lucas Martins Mororo
+# Lucas Martins Mororo
 
 ### Full Stack Developer
 
-**Building web & mobile applications with modern technologies.**
+**React · Next.js · Node.js · TypeScript · React Native**
+
+Building modern web and mobile applications with a focus on clean code, scalable architectures and great developer experience.
 
 <br />
 
 <a href="https://github.com/Lucas-Mororo">
-  <img src="https://img.shields.io/github/followers/Lucas-Mororo?label=Followers&style=for-the-badge&logo=github&color=181717" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/lucas-mororo">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:lucasmmororo@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
-
-```typescript
-const lucas = {
-  role: "Full Stack Developer",
-
-  mainStack: [
-    "TypeScript",
-    "React",
-    "Next.js",
-    "Node.js",
-    "NestJS",
-    "React Native"
-  ],
-
-  backend: [
-    "Node.js",
-    "NestJS",
-    "Express",
-    "GraphQL",
-    "Hasura",
-    "REST APIs"
-  ],
-
-  databases: [
-    "PostgreSQL",
-    "Redis"
-  ],
-
-  cloudAndDevOps: [
-    "AWS",
-    "Docker",
-    "Git",
-    "CI/CD"
-  ],
-
-  secondaryStack: [
-    "PHP",
-    "Laravel",
-    "Python",
-    "Django",
-    "C#",
-    ".NET"
-  ],
-
-  currentlyLearning: "C# / .NET + Software Architecture"
-};
-```
-
----
+## ⚡ Core Stack
 
 <div align="center">
 
-## ⚡ Main Stack
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,graphql,postgres,redis,docker,aws" />
+
+</div>
+
+<div align="center">
+
+`TypeScript` · `JavaScript` · `React` · `Next.js` · `Node.js` · `NestJS`
+
+`React Native` · `GraphQL` · `PostgreSQL` · `Redis` · `Docker` · `AWS`
+
+</div>
+
+---
+
+## 🧰 Technologies
 
 ### Frontend
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-<img src="https://skillicons.dev/icons?i=js" width="55" />
-</a>
-<a href="https://www.typescriptlang.org/">
-<img src="https://skillicons.dev/icons?i=ts" width="55" />
-</a>
-<a href="https://react.dev/">
-<img src="https://skillicons.dev/icons?i=react" width="55" />
-</a>
-<a href="https://nextjs.org/">
-<img src="https://skillicons.dev/icons?i=nextjs" width="55" />
-</a>
-<a href="https://tailwindcss.com/">
-<img src="https://skillicons.dev/icons?i=tailwind" width="55" />
-</a>
+`React` · `Next.js` · `React Native` · `TypeScript` · `JavaScript`
 
-<br />
-
-`JavaScript` · `TypeScript` · `React` · `Next.js` · `Tailwind CSS`
-
-<br /><br />
+`Tailwind CSS` · `Material UI` · `Shadcn UI` · `Styled Components`
 
 ### Backend
 
-<a href="https://nodejs.org/">
-<img src="https://skillicons.dev/icons?i=nodejs" width="55" />
-</a>
-<a href="https://nestjs.com/">
-<img src="https://skillicons.dev/icons?i=nestjs" width="55" />
-</a>
-<a href="https://expressjs.com/">
-<img src="https://skillicons.dev/icons?i=express" width="55" />
-</a>
-<a href="https://graphql.org/">
-<img src="https://skillicons.dev/icons?i=graphql" width="55" />
-</a>
-<a href="https://www.prisma.io/">
-<img src="https://skillicons.dev/icons?i=prisma" width="55" />
-</a>
+`Node.js` · `NestJS` · `Express` · `GraphQL` · `Hasura` · `Prisma`
+
+`REST APIs` · `Redis` · `WebSockets` · `SSE`
+
+### Databases & Cloud
+
+`PostgreSQL` · `Redis` · `AWS` · `S3` · `Docker`
+
+### Testing & Quality
+
+`Jest` · `React Testing Library` · `Cypress` · `ESLint` · `Prettier`
+
+---
+
+## 🔭 Currently Exploring
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio" />
 
 <br />
 
-`Node.js` · `NestJS` · `Express` · `GraphQL` · `Hasura` · `Prisma` · `REST`
+**C# · .NET · ASP.NET Core · Entity Framework**
 
-<br /><br />
-
-### Mobile
-
-<a href="https://reactnative.dev/">
-<img src="https://skillicons.dev/icons?i=react" width="55" />
-</a>
-<a href="https://expo.dev/">
-<img src="https://skillicons.dev/icons?i=expo" width="55" />
-</a>
-
-<br />
-
-`React Native` · `Expo` · `EAS Build` · `NativeWind`
+`Clean Architecture` · `Design Patterns` · `Software Architecture`
 
 </div>
 
 ---
 
-## 🏗️ Engineering & Infrastructure
+## 🧩 Secondary Stack
 
 <div align="center">
 
-<a href="https://www.postgresql.org/">
-<img src="https://skillicons.dev/icons?i=postgres" width="55" />
-</a>
-<a href="https://redis.io/">
-<img src="https://skillicons.dev/icons?i=redis" width="55" />
-</a>
-<a href="https://www.docker.com/">
-<img src="https://skillicons.dev/icons?i=docker" width="55" />
-</a>
-<a href="https://aws.amazon.com/">
-<img src="https://skillicons.dev/icons?i=aws" width="55" />
-</a>
-<a href="https://git-scm.com/">
-<img src="https://skillicons.dev/icons?i=git" width="55" />
-</a>
-<a href="https://github.com/">
-<img src="https://skillicons.dev/icons?i=github" width="55" />
-</a>
-
-<br />
-
-`PostgreSQL` · `Redis` · `Docker` · `AWS` · `Git` · `GitHub`
-
-</div>
-
-### 🔧 Development Practices
-
-* Clean Code
-* Design Patterns
-* RESTful APIs
-* GraphQL APIs
-* Component Architecture
-* State Management
-* Automated Testing
-* CI/CD
-* Performance Optimization
-* Software Architecture
-
----
-
-<div align="center">
-
-## 🧩 Secondary Technologies
-
-Technologies I have worked with or continue to develop:
-
-<br />
-
-<a href="https://www.php.net/">
-<img src="https://skillicons.dev/icons?i=php" width="55" />
-</a>
-<a href="https://laravel.com/">
-<img src="https://skillicons.dev/icons?i=laravel" width="55" />
-</a>
-<a href="https://www.python.org/">
-<img src="https://skillicons.dev/icons?i=python" width="55" />
-</a>
-<a href="https://www.djangoproject.com/">
-<img src="https://skillicons.dev/icons?i=django" width="55" />
-</a>
-<a href="https://dotnet.microsoft.com/">
-<img src="https://skillicons.dev/icons?i=cs,dotnet" width="110" />
-</a>
+<img src="https://skillicons.dev/icons?i=php,laravel,python,django,cs,dotnet" />
 
 <br /><br />
 
@@ -218,80 +96,27 @@ Technologies I have worked with or continue to develop:
 
 ---
 
-## 📱 Web & Mobile Development
+## 🚀 Featured Projects
 
-<div align="center">
+### 🔔 Real-time Notification Service
 
-|    🌐 Web    |   📱 Mobile  | ⚙️ Backend |
-| :----------: | :----------: | :--------: |
-|     React    | React Native |   Node.js  |
-|    Next.js   |     Expo     |   NestJS   |
-|  TypeScript  |   EAS Build  |   Express  |
-| Tailwind CSS |  NativeWind  |   GraphQL  |
+Real-time notification system built to explore backend architecture, event-driven communication and distributed messaging.
 
-</div>
+**Stack:** `Node.js` · `Express` · `Redis Pub/Sub` · `SSE` · `Docker`
+
+→ [View repository](https://github.com/Lucas-Mororo/realtime-notification-service)
 
 ---
 
-## 🧪 Testing & Code Quality
+### 📚 Full Stack Study Platform
 
-<div align="center">
+A structured full-stack development project focused on modern architecture, reusable components, backend services and scalable application structure.
 
-<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
-<img src="https://img.shields.io/badge/React_Testing_Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white" />
-<img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
-<img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" />
-<img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black" />
-
-</div>
+**Stack:** `TypeScript` · `React` · `Next.js` · `Node.js` · `PostgreSQL` · `Docker`
 
 ---
 
-## 📚 Currently Learning
-
-<div align="center">
-
-### `C#` + `.NET`
-
-<br />
-
-<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio" />
-
-<br /><br />
-
-`ASP.NET Core` · `Entity Framework` · `REST APIs`
-
-`Clean Architecture` · `Design Patterns` · `Software Architecture`
-
-</div>
-
-> Expanding my backend expertise and deepening my understanding of scalable software architecture.
-
----
-
-## 🚀 What I Like Building
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│   🌐 Modern Web Applications                                 │
-│                                                              │
-│   📱 Cross-platform Mobile Applications                      │
-│                                                              │
-│   ⚙️ REST & GraphQL APIs                                     │
-│                                                              │
-│   🏗️ Scalable Backend Architectures                         │
-│                                                              │
-│   🔄 Real-time Applications & Distributed Systems            │
-│                                                              │
-│   ☁️ Cloud & Containerized Applications                      │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
----
-
-## 📊 GitHub Analytics
+## 📈 GitHub
 
 <div align="center">
 
@@ -311,48 +136,19 @@ Technologies I have worked with or continue to develop:
 
 ---
 
-## 🐍 Contribution Graph
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Lucas-Mororo/Lucas-Mororo/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
+## Let's connect
 
 <a href="https://www.linkedin.com/in/lucas-mororo">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
 <a href="mailto:lucasmmororo@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://github.com/Lucas-Mororo">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://app.rocketseat.com.br/me/lucas-mororo">
-<img src="https://img.shields.io/badge/Rocketseat-7159C1?style=for-the-badge&logo=rocket&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br /><br />
 
-**💬 Always learning. Always building.**
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-<img src="https://komarev.com/ghpvc/?username=Lucas-Mororo&style=for-the-badge&color=blueviolet" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=Lucas-Mororo&style=flat-square&color=blueviolet" />
 
 </div>
